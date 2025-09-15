@@ -34,4 +34,4 @@ vipers = "^2.0"
 
 [dev-dependencies]
 proptest = { version = "1.0" }
-rand = { version = "0.8.4" }
+rand = { version = "0.9.2" }
