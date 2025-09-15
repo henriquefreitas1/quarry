@@ -2978,9 +2978,9 @@ __metadata:
   linkType: hard
 
 "jsbi@npm:^4.3.0":
-  version: 4.3.0
-  resolution: "jsbi@npm:4.3.0"
-  checksum: f74990e76c2e980f0bbf832ad0551820d2e4b76896d0196cacf720d8fb0b7a52c14f7efcb0ad5f0ae0f18303a0bfbc0ff6924835e582692b689bf93aae5eac36
+  version: 4.3.2
+  resolution: "jsbi@npm:4.3.2"
+  checksum: 9c1b9cd1227d9bc33ff1c9ee85a65f064b349c92bb4f0655f2f027cbe40a44f3b9bf055a76f8262418240f21583f6b5bbd024932d3c299a9708a3b7e389cf4c5
   languageName: node
   linkType: hard
 
